@@ -8,12 +8,14 @@
 }
 
 .input {
+	background: green;
 }
 
 .input:focus {
 }
 
 .errorInput {
+	background: red;
 }
 
 .button {
